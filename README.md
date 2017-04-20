@@ -1,0 +1,1 @@
+Minimalist linked-list library writte in C for use in personal projects
